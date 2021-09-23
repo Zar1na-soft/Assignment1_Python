@@ -1,4 +1,4 @@
-# Assignment2_Python
+# Assignment1_Python
 First, we must obtain the data from coingecko.com
 CoinGeckoAPI was imported from pycoingecko.
 CoinGeckoApi() was used to pull the data, which was then named as a cg.
